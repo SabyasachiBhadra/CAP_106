@@ -15,7 +15,7 @@ conda create --prefix ./env1 python=3.7 -y
 
 ### to activate the environment
 '''
-conda activate ./env1
+conda activate ./cap_106_env
 '''
 
 
